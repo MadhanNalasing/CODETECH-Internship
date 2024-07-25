@@ -4,7 +4,7 @@
 **ID:** CT12DS623
 **Domain:** Java Programming
 **Duration:** 10th June to 10th August
-**Mentor:** G.Sravani
+**Mentor:** Neela Santhosh
 **Overview of the Project**
 Project: Online Banking System
 __Objective__:
